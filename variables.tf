@@ -11,5 +11,5 @@ variable "ec2_ssh_key_name" {
 }
 
 variable "aws_region" {
-    default = "us-west-2"
+    default = "us-east-2"
 }
